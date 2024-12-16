@@ -1,6 +1,10 @@
-# React + Vite
+# Todo-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Todo App project built using React and Vite.
+
+## React + Vite
+
+This template provides a minimal setup to get React working in Vite with Hot Module Replacement (HMR) and some ESLint rules.
 
 Currently, two official plugins are available:
 
